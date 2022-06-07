@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dictonary</string>
+    <string name="search_here">Search Here !</string>
+    <string name="word">Word:</string>
+    <string name="searchedword">SearchedWord</string>
+    <string name="searchedWord">searchedWord</string>
+    <string name="phonetic">Phonetic</string>
+    <string name="meanings">Meanings</string>
+    <string name="partofspeech">partOfSpeech</string>
+    <string name="definition">Definition :</string>
+    <string name="synonyms">Synonyms :</string>
+    <string name="synonymswords">SynonymsWords</string>
+    <string name="antonyms">Antonyms :</string>
+    <string name="antonymswords">Antonymswords</string>
+    <string name="partofspeechc">PartOfSpeech :</string>
+</resources>
